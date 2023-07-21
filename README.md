@@ -3,10 +3,12 @@
   <img src="https://media.giphy.com/media/kdQF3hmlKMqVOhsoAv/giphy.gif" width="50" style="vertical-align: middle;">
 </h2>
 
-### $\textcolor{darkyellow}{I'm\ a\ college\ student\ in\ computer\ science\}$
+### $\textcolor{gray}{I'm\ a\ college\ student\ in\ computer\ science\}$
 <img a1 align='right' src="https://media.giphy.com/media/TEuni0nmeOaFhhvNUw/giphy.gif" width="125">
-<br>
+<br><br>
 <p><b><i>Here is something if you want to get to know me better</i></b></p>
+<br><br>
+
 
 ```java
 package justfreezo.readMe;
