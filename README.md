@@ -2,6 +2,7 @@
   Bonjour !
   <img src="https://media.giphy.com/media/kdQF3hmlKMqVOhsoAv/giphy.gif" width="50" style="vertical-align: middle;">
 </h2>
+
 <h3>I'm a college student in computer science</h3>
 <img a1 align='right' src="https://media.giphy.com/media/TEuni0nmeOaFhhvNUw/giphy.gif" width="125">
 <br><br>
