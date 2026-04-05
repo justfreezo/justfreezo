@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/kdQF3hmlKMqVOhsoAv/giphy.gif" width="50" style="vertical-align: middle;">
 </h2>
 
-<h3>I'm a college student in computer science</h3>
+<h3>I'm a college engineering student in computer science</h3>
 <img a1 align='right' src="https://media.giphy.com/media/TEuni0nmeOaFhhvNUw/giphy.gif" width="125">
 <br><br>
 <p><b><i>Here is something if you want to get to know me better</i></b></p>
@@ -29,7 +29,7 @@ public class Me {
 		this.age = 20;
 		this.hobbies = new String[] {"Computer Science", "Music", "Photography"};
 		this.languagesSpoken = new String[] { "French", "English", "Portuguese", "Spanish"};
-		this.programmingLanguages = new String[] {"Java", "Python", "VB.NET", "C", "C++"};
+		this.programmingLanguages = new String[] {"Java", "Python", "VB.NET", "C", "C++", "Dart", "JavaScript"};
 		this.socialMedias = new HashMap<>(Map.of("Linkedin","paulo-martins1","Discord", "8fu", "Instagram","justfreezo"));
 	}
 	
