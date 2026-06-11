@@ -27,7 +27,7 @@ public class Me {
 	public Me() {
 		this.name = "Paulo Martins";
 		this.age = 20;
-		this.hobbies = new String[] {"Computer Science", "Music", "Photography"};
+		this.hobbies = new String[] {"Computer Science", "Reverse Engineering", "Music", "Photography"};
 		this.languagesSpoken = new String[] { "French", "English", "Portuguese", "Spanish"};
 		this.programmingLanguages = new String[] {"Java", "Python", "VB.NET", "C", "C++", "Dart", "JavaScript"};
 		this.socialMedias = new HashMap<>(Map.of("Linkedin","paulo-martins1","Discord", "8fu", "Instagram","justfreezo"));
